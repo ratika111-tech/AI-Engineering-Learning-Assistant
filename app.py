@@ -16,6 +16,8 @@ st.set_page_config(
 st.title("🎓 RJ's Mobile Communication Teaching Assistant")
 st.caption("AI-powered learning assistant for Advanced Mobile Communication")
 
+st.info("📚 Learn from faculty teaching PPTs • Ask questions • Get simple explanations • Generate notes, MCQs and 5-mark answers")
+
 PPT_FOLDER = "PPTs"
 
 @st.cache_data
