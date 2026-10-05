@@ -13,8 +13,8 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🎓 AI Engineering Learning Assistant")
-st.caption("Personalized learning assistant based on the professor's teaching PPTs")
+st.title("🎓 RJ's Mobile Communication Teaching Assistant")
+st.caption("AI-powered learning assistant for Advanced Mobile Communication")
 
 PPT_FOLDER = "PPTs"
 
